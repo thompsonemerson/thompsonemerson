@@ -7,7 +7,7 @@ import SoftwareDeveloper from 'thompsonemerson';
 
 class Bio extends SoftwareDeveloper {
   name     = 'Emerson Thompson';
-  title    = 'FullStack Developer Sênior';
+  title    = 'Full-Stack Developer';
   company  = 'Sky.One Solutions | Remote';
   location = 'Fortaleza, CE';
 }
