@@ -10,6 +10,7 @@ class Bio extends SoftwareDeveloper {
   title    = 'Front-End Engineer';
   company  = 'Sky.One Solutions | Remote';
   location = 'Fortaleza, CE';
+  website  = 'https://thomp.dev';
 }
 
 class Skills extends SoftwareDeveloper {
