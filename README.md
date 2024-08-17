@@ -8,7 +8,7 @@ import { SoftwareDeveloper } from '@thompsonemerson';
 class Bio extends SoftwareDeveloper {
   name     = 'Emerson Thompson';
   title    = 'Senior Front-End Software Engineer';
-  company  = 'Sky.One Solutions | Remote';
+  company  = 'Skyone Solutions | Remote';
   location = 'Fortaleza, CE';
   website  = 'https://thomp.dev';
 }
